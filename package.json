@@ -1,0 +1,17 @@
+{
+  "name": "lit-element_2687365",
+  "version": "1.0.0",
+  "description": "SI de Matriculas Colegio",
+  "main": "index.js",
+  "scripts": {
+    "start": "polymer serve",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^5.3.2",
+    "lit-element": "^3.0.0-rc.4",
+    "polymer-cli": "^1.9.11"
+  }
+}
